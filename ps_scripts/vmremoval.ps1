@@ -1,0 +1,1 @@
+﻿Remove-AzVM -Name mrk-VM -ResourceGroupName mrk-ps
